@@ -12,6 +12,12 @@ Assign 15 points to Attributes. The minimum is 1 and the starting maximum is 5.
 
 ## Will
 
+# Lifeform
+
+Choose your life form name (such as Human) then choose any four of the below Lifeform traits:
+
+- 
+
 # Aspects
 
 Each Aspect has a value equal to its 2 Attributes.
