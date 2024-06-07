@@ -135,7 +135,7 @@ You may move to Close, Near, or Far.
 
 ### Unopposed
 
-You may take an Unopposed action against an obstacle.
+You may take an Unopposed action against an obstacle or defenseless opponent.
 
 ## Opposed Challenges
 
