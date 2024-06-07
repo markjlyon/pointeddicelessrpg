@@ -12,23 +12,24 @@ Assign 15 points to Attributes. The minimum is 1 and the starting maximum is 5.
 
 ## Will
 
-# Lifeform
+# Lifeforms & Traits
 
-All Lifeforms have base HP of 4.
+All Lifeforms, and therefor all characters, have a base of 4 HP.
 
 Choose your Lifeform concept (such as Human) then choose any four traits that fit your Lifeform concept from the below list below:
 
 - +1 to a single Attribute
 - +2 to a single Aspect
 - +2 HP
+- +2 Action Points
 - Extra limbs (arms, legs, wings, a tail. etc.)
 - Enhanced sense (night vision, telescopic vision, selective hearing, scent tracking, etc.)
 - New sense (hear radio signals, sense living creatures, sense emotional auras, etc.)
 - Natural weapon (Close Melee: claws, bite, wing buffet, tail swipe, etc.)
 - Natural armor (Adds 1 Armor and causes the skin of the Lifeform to be thicker and less sensitive to touch)
+- Environment Resistance (extremely cold, extremely dry, extremely hot, extremely humid, extreme altitudes, etc.)
 - Waterbreathing
-- Immunity to a Poison (skin contact, ingested, injected venom, etc.)
-- +1 Action Point
+- Immunity to a Poison type (contact, ingested, venom, radiation, etc.)
 
 Some Lifeform traits will not fit some concepts, such as Human with Extra Limbs or Waterbreathing, so should be avoided if it doesn't make sense in the campaign.
 
