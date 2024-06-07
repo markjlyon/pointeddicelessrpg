@@ -1,21 +1,34 @@
 2, 3, 3, 3 ,4
+# Attributes
 
-Physique
-Agility
-Mind
-Charisma
-Will
+Assign 15 points to Attributes. The minimum is 1 and the starting maximum is 5.
 
-Cha + Will = Conviction
-Phy + Agi = Fitness
-Agi + Cha = Guise
-Phy + Mind = Leadership
-Mind + Cha = Luck
-Phy + Cha = Presence
-Agi + Mind = Quickness
-Mind + Will = Resolve
-Agi + Will = Speed
-Phy + Will = Toughness
+## Physique
+
+## Agility
+
+## Mind
+
+## Charisma
+
+## Will
+
+# Aspects
+
+Your aspects are calculated using 2 Attributes.
+
+| Aspect | Attribute 1 | Attribute 2 |
+| --- | --- | --- |
+| Conviction | Charisma | Will |
+| Fitness | Agility | Physique |
+| Guise | Agility | Charisma |
+| Leadership | Mind | Physique |
+| Luck | Charisma | Mind |
+| Presence | Charisma | Physique |
+| Quickness | Agility | Mind |
+| Resolve | Mind | Will |
+| Speed | Agility | Will |
+| Toughness | Physique | Will |
 
 Challenges compare the two opponents totals:
 
