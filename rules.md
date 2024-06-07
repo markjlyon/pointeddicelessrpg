@@ -110,7 +110,7 @@ A Stance determines how offensive or defensive the character wishes to be that T
 
 ### Active
 
-An Active stance allows the character to use 150% of their Aspect value for active skill use and combat purposes, but only 50% of their Aspect value for resistive and defensive purposes.
+An Active stance allows the character to use 150% of their Aspect value for opposed active skill use and opposed combat purposes, but only 50% of their Aspect value for resistive and defensive purposes.
 
 ### Balanced
 
@@ -118,7 +118,7 @@ An Active stance that allows the character to use 100% of their Aspect value for
 
 ### Passive
 
-A Passive stance allows the character to use 150% of their Aspect value for resistive and defensive purposes, but only 50% of their Aspect value for active skill use and combat purposes.
+A Passive stance allows the character to use 150% of their Aspect value for resistive and defensive purposes as well as unopposed checks, but only 50% of their Aspect value for opposed active skill use and opposed combat purposes.
 
 ## Actions
 
