@@ -14,8 +14,14 @@ Assign 15 points to Attributes. The minimum is 1 and the starting maximum is 5.
 
 # Lifeform
 
-Choose your life form name (such as Human) then choose any four of the below Lifeform traits:
+All Lifeforms have base HP of 4.
 
+Choose your life form name (such as Human) then choose any four, even duplicates, from the below list of Lifeform traits:
+
+- +1 to a single Attribute
+- +2 to a single Aspect
+- +2 HP
+- Enhanced sense (night vision, radio hearing, scent tracking, etc.)
 - 
 
 # Aspects
