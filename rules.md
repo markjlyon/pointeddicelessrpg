@@ -34,21 +34,43 @@ Each Aspect has a value equal to its 2 Attributes.
 
 # Weapons
 
-| Type | Allowable Ranges | Damage/Effect Points | Notes |
+There are three different types of weapons and one damaging ability in game: Light Melee, Heavy Melee, Ranged, and the ability of Magic.
+
+| Type | Allowable Ranges | Damage | Notes |
 |-|-|-|-|
 | Close  | Light Melee | 1 | |
-| Close  | Heavy Melee | 1 | |
+| Close  | Heavy Melee | 2 | |
 | Close  | Magic       | 1 | |
 | Near   | Heavy Melee | 1 | |
 | Near   | Magic       | 1 | |
-| Near   | Ranged      | 1 | |
+| Near   | Ranged      | 2 | |
 | Far    | Magic       | 1 | |
 | Far    | Ranged      | 1 | |
 
-
 # Combat
 
-# Challenges
+## Rounds
+
+Combat is divided into Rounds.
+Each Round is about 6 seconds.
+Each PC and NPC takes their Turn during a Round.
+Once all PCs and NPCs that can act have taken their Turn the Round ends and, if necessary, a new Round begins.
+
+## Initiative
+
+Initiative is determined by which side has the highest Quickness of the group member that has the lowest Quickness.
+In case of a tie both groups act in unison with individual members with the highest Initiative going first.
+
+If PCs and NPCs go at exactly the same time, PCs go first.
+
+> The party has Emesyn with Quickness 4, Taranis with Quickness 7, and Jim with Quickness 6.
+> The party's Initiative is a 4.
+> The NPC mercenaries have a Quickness of 4 and their leader has a Quickness of 8.
+> So both groups go at the same time, with the leader going on 8, Taranis on 7, Jim on 6, Emesyn on 4, and finally the mercenaries on 4. 
+
+If one side is surprised, they lose initiative.
+
+## Opposed Challenges
 
 Challenges compare the two opponents totals:
 
