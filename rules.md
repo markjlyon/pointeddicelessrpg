@@ -25,7 +25,7 @@ Choose your Lifeform concept (such as Human) then choose any four traits that fi
 - Enhanced sense (night vision, telescopic vision, selective hearing, scent tracking, etc.)
 - New sense (hear radio signals, sense living creatures, sense emotional auras, etc.)
 - Natural weapon (Close Melee: claws, bite, wing buffet, tail swipe, etc.)
-- Natural armor (Adds 1 Armor)
+- Natural armor (Adds 1 Armor and causes the skin of the Lifeform to be thicker and less sensitive to touch)
 - Waterbreathing
 - Immunity to a Poison (skin contact, ingested, injected venom, etc.)
 
