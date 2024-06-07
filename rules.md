@@ -37,14 +37,16 @@ There are three different types of weapons and one damaging ability in game: Lig
 
 | Type | Allowable Ranges | Damage | Notes |
 |-|-|-|-|
-| Close  | Light Melee | 1 | |
-| Close  | Heavy Melee | 2 | Heavy Melee weapons take both hands to use |
-| Close  | Magic       | 1 | |
-| Near   | Heavy Melee | 1 | Heavy Melee weapons take both hands to use |
-| Near   | Magic       | 1 | |
-| Near   | Ranged      | 2 | |
-| Far    | Magic       | 1 | |
-| Far    | Ranged      | 1 | |
+| Close  | Light Melee  | 1 | |
+| Close  | Heavy Melee  | 2 | Heavy Melee weapons take both hands to use |
+| Close  | Magic        | 1 | |
+| Close  | Light Ranged | 1 | |
+| Near   | Heavy Melee  | 1 | Heavy Melee weapons take both hands to use |
+| Near   | Magic        | 1 | |
+| Near   | Light Ranged | 1 | |
+| Near   | Heavy Ranged | 2 | |
+| Far    | Magic        | 1 | |
+| Far    | Heavy Ranged | 1 | |
 
 # Combat
 
