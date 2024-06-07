@@ -23,8 +23,13 @@ Choose your Lifeform concept (such as Human) then choose any four traits that fi
 - +2 HP
 - Extra limbs (arms, legs, wings, a tail. etc.)
 - Enhanced sense (night vision, telescopic vision, selective hearing, scent tracking, etc.)
-- New sense (hear radio signals, sense living creatures through thin barriers, sense emotional auras, etc.)
-- Natural weapon (Close Melee: claws, bite, rake, tail swipe, etc.)
+- New sense (hear radio signals, sense living creatures, sense emotional auras, etc.)
+- Natural weapon (Close Melee: claws, bite, wing buffet, tail swipe, etc.)
+- Natural armor (Adds 1 Armor)
+- Waterbreathing
+- Immunity to a Poison (skin contact, ingested, injected venom, etc.)
+
+Some Lifeform traits will not fit some concepts, such as Human with Extra Limbs or Waterbreathing, so should be avoided if it doesn't make sense in the campaign.
 
 # Aspects
 
