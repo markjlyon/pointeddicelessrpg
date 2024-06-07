@@ -51,13 +51,17 @@ Each Aspect has a value equal to its 2 Attributes.
 
 # Aptitudes
 
+Inspiration - Once per combat you may spend an Action to inspire your party so each character, including yourself, will recover 1 Action Point.
+
 # Action Points
 
-Every character starts with 5 Action Points.
+Every character starts with 10 Action Points.
 
 Action Points may be spent when a character attempts an action and increases their total by the number of Action Points spent.
 
-A character recovers 1 Action Point per hour of restful sleep.
+A character recovers 1 Action Point per hour of continuous uninterrupted rest (sleep, power recharging, meditation, etc.).
+
+A character that gets 1/3 of a day (8 hours for Earth) of continuous uninterrupted sleep recovers all Action Points.
 
 # Weapons
 
