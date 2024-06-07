@@ -28,6 +28,7 @@ Choose your Lifeform concept (such as Human) then choose any four traits that fi
 - Natural armor (Adds 1 Armor and causes the skin of the Lifeform to be thicker and less sensitive to touch)
 - Waterbreathing
 - Immunity to a Poison (skin contact, ingested, injected venom, etc.)
+- +1 Action Point
 
 Some Lifeform traits will not fit some concepts, such as Human with Extra Limbs or Waterbreathing, so should be avoided if it doesn't make sense in the campaign.
 
@@ -49,6 +50,14 @@ Each Aspect has a value equal to its 2 Attributes.
 | Toughness   | Physique + Will     | Resistance to fatigue and  Endurance, Health, Stamina |
 
 # Aptitudes
+
+# Action Points
+
+Every character starts with 5 Action Points.
+
+Action Points may be spent when a character attempts an action and increases their total by the number of Action Points spent.
+
+A character recovers 1 Action Point per hour of restful sleep.
 
 # Weapons
 
