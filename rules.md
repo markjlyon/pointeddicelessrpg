@@ -17,18 +17,38 @@ Assign 15 points to Attributes. The minimum is 1 and the starting maximum is 5.
 
 Each Aspect has a value equal to its 2 Attributes.
 
-| Aspect      |          |          | |
-| ---         | ---      | ---      | --- |
-| Conviction  | Charisma | Will     | |
-| Fitness     | Agility  | Physique | |
-| Guise       | Agility  | Charisma | |
-| Leadership  | Mind     | Physique | |
-| Momentum    | Agility  | Will     | |
-| Opportunity | Charisma | Mind     | |
-| Presence    | Charisma | Physique | |
-| Quickness   | Agility  | Mind     | |
-| Resolve     | Mind     | Will     | |
-| Toughness   | Physique | Will     | |
+| Aspect      |                     | Examples |
+| ---         | ---                 | ---      |
+| Conviction  | Charisma + Will     | Belief, Dedication, Faith |
+| Fitness     | Agility  + Physique | Climbing, Melee |
+| Guise       | Agility  + Charisma | Acting, Deception, Seduction |
+| Leadership  | Mind     + Physique | Group level social influence |
+| Movement    | Agility  + Will     | Running, Stealth |
+| Opportunity | Charisma + Mind     | Luck, Perception |
+| Presence    | Charisma + Physique | Individual level social influence |
+| Quickness   | Agility  + Mind     | Hand eye coordination, Initiative, Ranged |
+| Resolve     | Mind     + Will     | Resistance to mental and emotional influences and effects |
+| Toughness   | Physique + Will     | Resistance to fatigue and  Endurance, Health, Stamina |
+
+# Aptitudes
+
+# Weapons
+
+| Type | Allowable Ranges | Damage/Effect Points | Notes |
+|-|-|-|-|
+| Close  | 
+Light Melee
+Heavy Melee
+| 1 | |
+| Close  | Close | 2 | |
+| Heavy Melee  | Near  | 1 | |
+| Ranged       | Near  | 1 | |
+| Ranged       | Far   | 2 | |
+
+
+# Combat
+
+# Challenges
 
 Challenges compare the two opponents totals:
 
