@@ -22,7 +22,7 @@ Each Aspect has a value equal to its 2 Attributes.
 | Fitness     | Agility  + Physique | Climbing, Melee |
 | Guise       | Agility  + Charisma | Acting, Deception, Seduction |
 | Leadership  | Mind     + Physique | Group level social influence |
-| Movement    | Agility  + Will     | Dodging, Running, Stealth |
+| Momentum    | Agility  + Will     | Dodging, Running, Stealth |
 | Opportunity | Charisma + Mind     | Luck, Perception |
 | Presence    | Charisma + Physique | Individual level social influence |
 | Quickness   | Agility  + Mind     | Hand eye coordination, Initiative, Ranged |
@@ -84,6 +84,11 @@ An Active stance that allows the character to use 100% of their Aspect value for
 ### Passive
 
 A Passive stance allows the character to use 150% of their Aspect value for resistive and defensive purposes, but only 50% of their Aspect value for active skill use and combat purposes.
+
+## Actions
+
+Each character gains 2 actions a Turn.
+Each Action can be used to Move from Close to Near, Near to Close, Near to Far, and Close to Far 
 
 ## Opposed Challenges
 
