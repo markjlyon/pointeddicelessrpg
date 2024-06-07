@@ -36,14 +36,14 @@ Each Aspect has a value equal to its 2 Attributes.
 
 | Type | Allowable Ranges | Damage/Effect Points | Notes |
 |-|-|-|-|
-| Close  | 
-Light Melee
-Heavy Melee
-| 1 | |
-| Close  | Close | 2 | |
-| Heavy Melee  | Near  | 1 | |
-| Ranged       | Near  | 1 | |
-| Ranged       | Far   | 2 | |
+| Close  | Light Melee | 1 | |
+| Close  | Heavy Melee | 1 | |
+| Close  | Magic       | 1 | |
+| Near   | Heavy Melee | 1 | |
+| Near   | Magic       | 1 | |
+| Near   | Ranged      | 1 | |
+| Far    | Magic       | 1 | |
+| Far    | Ranged      | 1 | |
 
 
 # Combat
