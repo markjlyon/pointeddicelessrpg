@@ -142,10 +142,11 @@ You may take an Unopposed action against an obstacle or defenseless opponent.
 Challenges compare the two opponents totals:
 
 Whomever has the highest total wins.
-Apply all effects for winning.
+Apply any effects for winning for the winner.
 
 Whomever has the lowest total loses.
-Apply all effects for losing.
+Apply any effects for losing for the loser.
 
 In the case of a tie, neither side wins.
-Apply all effects for winning and losing.
+Apply any effects for winning to each opponent.
+Apply any effects for losing to each opponent.
