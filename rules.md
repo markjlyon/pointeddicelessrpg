@@ -123,17 +123,19 @@ A Passive stance allows the character to use 150% of their Aspect value for resi
 ## Actions
 
 Each character gains 2 Actions a Turn.
-Each Action can be used to Attack, Evade, Move, Focus, or Test.
+Each Action can be used to Attack, Move, or Test.
 
-### Attack
+### Opposed
 
-### Evade
+You may take an Opposed action against an opponent or obstacle.
 
 ### Move
 
-### Focus
+You may move to Close, Near, or Far.
 
-### Test
+### Unopposed
+
+You may take an Unopposed action against an obstacle.
 
 ## Opposed Challenges
 
