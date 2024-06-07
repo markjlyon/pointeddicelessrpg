@@ -1,4 +1,3 @@
-2, 3, 3, 3 ,4
 # Attributes
 
 Assign 15 points to Attributes. The minimum is 1 and the starting maximum is 5.
@@ -23,11 +22,11 @@ Each Aspect has a value equal to its 2 Attributes.
 | Fitness     | Agility  + Physique | Climbing, Melee |
 | Guise       | Agility  + Charisma | Acting, Deception, Seduction |
 | Leadership  | Mind     + Physique | Group level social influence |
-| Movement    | Agility  + Will     | Running, Stealth |
+| Movement    | Agility  + Will     | Dodging, Running, Stealth |
 | Opportunity | Charisma + Mind     | Luck, Perception |
 | Presence    | Charisma + Physique | Individual level social influence |
 | Quickness   | Agility  + Mind     | Hand eye coordination, Initiative, Ranged |
-| Resolve     | Mind     + Will     | Resistance to mental and emotional influences and effects |
+| Resolve     | Mind     + Will     | Resistance to mental and emotional influences and effects, Concentration, Technical tasks |
 | Toughness   | Physique + Will     | Resistance to fatigue and  Endurance, Health, Stamina |
 
 # Aptitudes
@@ -68,6 +67,23 @@ In case of a tie both groups act in unison with individual members with the high
 > Both groups go at the same time, with the leader going on 8, Taranis on 7, Jim on 6, and finally Emesyn and the mercenaries going simultaneously on 4. 
 
 If one side is surprised, they lose initiative.
+
+## Stance
+
+Characters start each Turn by choosing their Stance.
+A Stance determines how offensive or defensive the character wishes to be that Turn.
+
+### Active
+
+An Active stance allows the character to use 150% of their Aspect value for active skill use and combat purposes, but only 50% of their Aspect value for resistive and defensive purposes.
+
+### Balanced
+
+An Active stance that allows the character to use 100% of their Aspect value for all purposes.
+
+### Passive
+
+A Passive stance allows the character to use 150% of their Aspect value for resistive and defensive purposes, but only 50% of their Aspect value for active skill use and combat purposes.
 
 ## Opposed Challenges
 
