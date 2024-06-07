@@ -15,20 +15,20 @@ Assign 15 points to Attributes. The minimum is 1 and the starting maximum is 5.
 
 # Aspects
 
-Your aspects are calculated using 2 Attributes.
+Each Aspect has a value equal to its 2 Attributes.
 
-| Aspect      |          |          |
-| ---         | ---      | ---      |
-| Conviction  | Charisma | Will     |
-| Fitness     | Agility  | Physique |
-| Guise       | Agility  | Charisma |
-| Leadership  | Mind     | Physique |
-| Momentum    | Agility  | Will     |
-| Opportunity | Charisma | Mind     |
-| Presence    | Charisma | Physique |
-| Quickness   | Agility  | Mind     |
-| Resolve     | Mind     | Will     |
-| Toughness   | Physique | Will     |
+| Aspect      |          |          | |
+| ---         | ---      | ---      | --- |
+| Conviction  | Charisma | Will     | |
+| Fitness     | Agility  | Physique | |
+| Guise       | Agility  | Charisma | |
+| Leadership  | Mind     | Physique | |
+| Momentum    | Agility  | Will     | |
+| Opportunity | Charisma | Mind     | |
+| Presence    | Charisma | Physique | |
+| Quickness   | Agility  | Mind     | |
+| Resolve     | Mind     | Will     | |
+| Toughness   | Physique | Will     | |
 
 Challenges compare the two opponents totals:
 
