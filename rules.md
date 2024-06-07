@@ -122,8 +122,18 @@ A Passive stance allows the character to use 150% of their Aspect value for resi
 
 ## Actions
 
-Each character gains 2 actions a Turn.
-Each Action can be used to Move from Close to Near, Near to Close, Near to Far, and Close to Far 
+Each character gains 2 Actions a Turn.
+Each Action can be used to Attack, Evade, Move, Focus, or Test.
+
+### Attack
+
+### Evade
+
+### Move
+
+### Focus
+
+### Test
 
 ## Opposed Challenges
 
